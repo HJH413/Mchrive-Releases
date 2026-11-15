@@ -1,6 +1,6 @@
 # Mchrive 패치노트
 
-아래는 개발 완료 버전의 변경사항입니다. 실제 설치 가능한 버전은 [Releases](https://github.com/HJH413/Mchrive-Releases/releases)를 확인하세요. 현재 공개 설치 릴리스는 준비 중입니다.
+아래는 개발 완료 버전의 변경사항입니다. 실제 설치 가능한 버전은 [Releases](https://github.com/HJH413/Mchrive-Releases/releases)를 확인하세요. 최신 공개 설치 버전은 **1.6.1**입니다.
 
 ## 1.6.1 · 2026-11-15
 - 지원되는 Windows에서 캡처 테두리 숨김을 요청합니다. Windows 권한·정책에 따라 테두리가 유지될 수 있습니다.
