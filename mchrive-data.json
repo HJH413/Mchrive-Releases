@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "dataset_version": "2026.11.17-1",
+  "updated_at": "2026-11-17T21:44:19.930580+09:00",
+  "timezone": "Asia/Seoul",
+  "datasets": {
+    "events": {
+      "schema_version": 1,
+      "dataset_version": "2026.11.17-argo-1",
+      "updated_at": "2026-11-17T21:44:19.930580+09:00",
+      "timezone": "Asia/Seoul",
+      "events": [
+        {
+          "id": "argo-blessing-2026",
+          "name": "아르고 호의 가호",
+          "source_url": "https://maplestory.nexon.com/news/update//813",
+          "participation_start": "2026-09-17",
+          "participation_end": "2026-11-18",
+          "effect_start": "2026-09-17",
+          "effect_end": "2026-11-25",
+          "start_note": "2026-09-17 서버 점검 이후 적용; 정확한 시각은 이 샘플에 지정하지 않음",
+          "buff_level_min": 0,
+          "buff_level_max": 6,
+          "buff_scope": "world",
+          "bonus_trigger": "daily_quest_completion",
+          "arcane_daily_extra_by_level": [
+            0,
+            2,
+            4,
+            8,
+            12,
+            16,
+            20
+          ],
+          "authentic_daily_extra_by_level": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            7,
+            9
+          ],
+          "requires_participation": true,
+          "notes": "사용자 버프 레벨 및 실제 참여 여부는 별도 입력. 효과 종료일과 이벤트 참여 종료일을 혼동하지 말 것."
+        }
+      ]
+    }
+  }
+}
