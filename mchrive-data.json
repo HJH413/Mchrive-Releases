@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "dataset_version": "2026.11.17-2",
-  "updated_at": "2026-11-17T22:20:25.744030+09:00",
+  "dataset_version": "2026.11.21-183328",
+  "updated_at": "2026-11-21T18:33:28+09:00",
   "timezone": "Asia/Seoul",
   "datasets": {
     "events": {
@@ -313,6 +313,15 @@
           ]
         }
       ]
-    }
+    },
+    "notices": [
+      {
+        "title": "테스트",
+        "start": "2026-11-20",
+        "end": "2026-11-22",
+        "body": "테스트용공지내용",
+        "id": "438a245a6611430692776745f26d2c5b"
+      }
+    ]
   }
 }
