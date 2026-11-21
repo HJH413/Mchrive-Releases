@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "dataset_version": "2026.11.21-183346",
-  "updated_at": "2026-11-21T18:33:46+09:00",
+  "dataset_version": "2026.11.22-021101",
+  "updated_at": "2026-11-22T02:11:01+09:00",
   "timezone": "Asia/Seoul",
   "datasets": {
     "events": {
