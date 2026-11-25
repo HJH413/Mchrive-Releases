@@ -1,0 +1,8 @@
+{
+  "payload": {
+    "type": "mchrive-runtime-policy-v1",
+    "mode": "normal",
+    "revision": 1
+  },
+  "signature": "+8T6fmRNlzJUuIUwX3hFZ99fmYaeI51oyQ193+EbYe6bsFwLsryuKMDX/ANAp/7bEttBMPNRZtrNvLJl1shsDQ=="
+}
