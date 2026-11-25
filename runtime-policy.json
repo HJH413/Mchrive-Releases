@@ -1,8 +1,8 @@
 {
   "payload": {
     "type": "mchrive-runtime-policy-v1",
-    "mode": "normal",
-    "revision": 1
+    "mode": "all_stop",
+    "revision": 2
   },
-  "signature": "+8T6fmRNlzJUuIUwX3hFZ99fmYaeI51oyQ193+EbYe6bsFwLsryuKMDX/ANAp/7bEttBMPNRZtrNvLJl1shsDQ=="
+  "signature": "3ZQSaEKFKLJ/vzSaBvzU3epTa8p4dkrQHniNba+Xw+wtguim9HMCvetxUJpbzh29P+hmtISNtmPOWLMfvWWcAg=="
 }
