@@ -8,7 +8,7 @@
 
 [설치파일 및 업데이트](https://github.com/HJH413/Mchrive-Releases/releases)
 
-최신 공개 설치 버전은 **2.5.2**입니다. [다운로드](https://github.com/HJH413/Mchrive-Releases/releases/latest)에서 설치 EXE를 받아 실행하세요.
+최신 공개 설치 버전은 **2.6.20**입니다. [다운로드](https://github.com/HJH413/Mchrive-Releases/releases/latest)에서 설치 EXE를 받아 실행하세요.
 
 릴리스가 게시되면 사용자는 `Mchrive-Setup-<버전>-x64.exe`를 내려받아 설치하면 됩니다. 함께 첨부되는 `update.json`과 `SHA256SUMS.txt`는 앱의 업데이트 및 파일 검증용입니다.
 
